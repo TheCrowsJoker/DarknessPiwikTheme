@@ -1,0 +1,21 @@
+{
+    "name": "Darkness",
+    "description": "A dark theme for piwik",
+    "version": "1.0",
+    "theme": true,
+    "stylesheet": "stylesheets/theme.less",
+    "keywords": {
+        "theme",
+        "darkness",
+        "dark",
+        "black"
+    },
+    "require": {
+        "piwik": ">=2.11.0-b2"
+    },
+    "license": "GPLv3",
+    "authors": "Liam Sharpe",
+    "homepage": "https://github.com/TheCrowsJoker/DarknessPiwikTheme"
+}
+
+
