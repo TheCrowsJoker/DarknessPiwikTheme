@@ -1,7 +1,7 @@
 {
     "name": "Darkness",
     "description": "A dark theme for piwik",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "theme": true,
     "stylesheet": "stylesheets/theme.less",
     "keywords": [
